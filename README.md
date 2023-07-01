@@ -1,12 +1,9 @@
 ## Oiii eu sou a Vinicius karvalho!!👋
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vinicuskarv&show_icons=true&theme=transparent" />
-</a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicuskarv&langs_count=8" />
-  </a>
-  <img align="center" posi alt="gif"  height="200" width="190"   src="https://cdn.discordapp.com/attachments/1099742049361723496/1124452379367063693/picasion.com_cc7eb7c2eaede347b12023586f57a65f.gif"/>
+<div style="display: flex">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vinicuskarv&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicuskarv&langs_count=8" />
+  <img align="center" posi alt="gif"  height="200" width="190" src="https://cdn.discordapp.com/attachments/1099742049361723496/1124452379367063693/picasion.com_cc7eb7c2eaede347b12023586f57a65f.gif"/>
+</div>
  <br><br>
 <div style="display: inline_block">
   <img align="center" alt="Js" height="50" width="50" 
