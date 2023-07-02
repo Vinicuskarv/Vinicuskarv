@@ -1,4 +1,4 @@
-## Oiii eu sou a Vinicius karvalho!!👋
+## hi i am Vinicius karvalho!!👋
 <div style="display: flex">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vinicuskarv&show_icons=true&theme=transparent" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicuskarv&langs_count=8" />
