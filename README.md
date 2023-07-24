@@ -1,9 +1,5 @@
 <div align="center">
 <h1>Hi i am Vinicius karvalho!!👋<h1/>
-<div style="display: flex">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vinicuskarv&show_icons=true&theme=transparent" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicuskarv&langs_count=8" />
-</div><br>
 <div>
   <img align="center" alt="Js" height="50" width="50" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
