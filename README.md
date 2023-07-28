@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi i am Vinicius karvalho!!👋<h1/>
+<h1>Hi, i am Vinicius karvalho!!👋<h1/>
 <div>
   <img align="center" alt="Js" height="50" width="50" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
