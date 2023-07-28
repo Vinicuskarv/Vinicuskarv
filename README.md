@@ -1,6 +1,9 @@
 <div align="center">
 <h1>Hi, i am Vinicius karvalho!!👋<h1/>
-<div>
+  <div display="flex">
+  <img align="center"  alt="gif" height="300" width="300" src="https://cdn.discordapp.com/attachments/1099742049361723496/1134593059049455667/nagato-warming-up.gif"/>
+  </div>
+<div height="80px">
   <img align="center" alt="Js" height="50" width="50" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="50" width="50" 
@@ -16,7 +19,8 @@
   <img align="center" alt="git" height="50" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center"  alt="gif"  height="200" width="220"         
-    src="https://cdn.discordapp.com/attachments/1099742049361723496/1124452379367063693/picasion.com_cc7eb7c2eaede347b12023586f57a65f.gif"/>
+  src="https://cdn.discordapp.com/attachments/1099742049361723496/1124452379367063693/picasion.com_cc7eb7c2eaede347b12023586f57a65f.gif"/>
 </div>
+
 </div>
 
