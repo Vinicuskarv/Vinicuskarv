@@ -22,25 +22,21 @@
 </p>
 <img align="left" alt="gif"  height="180" width="200"         
   src="https://cdn.discordapp.com/attachments/1099742049361723496/1124452379367063693/picasion.com_cc7eb7c2eaede347b12023586f57a65f.gif"/>
-  <br/><br/><br/><br/>
+  <br/><br/><br/>
 <p align="center">
   <a href="https://64c0124e6057c4007629e337--tangerine-marigold-37bb7c.netlify.app/" target="_blank">
-    <img src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/23999642-7e89-4972-92f3-8c25799dd4f4" alt="Curriculum badge" height="30px" />
-    &nbsp;&nbsp;&nbsp;
+    Curriculum
+  </a>&nbsp;
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/0c8700a7-cd66-4cf1-8373-89bab72ba752" alt="Gmail badge" height="30px" />
-    &nbsp;&nbsp;&nbsp;  
-  </a>
+    Gmail 
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/vinicius-carvalho-lucius" target="_blank">
-    <img src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/1ee4e1dc-c9c3-4e45-88a3-1349a8c4ee29" alt="LinkedIn badge" height="30px" />
-    &nbsp;&nbsp;&nbsp;
-  </a>
+    LinkedIn
+  </a>&nbsp;
   <a href="https://api.whatsapp.com/send/?phone=351914127602&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/ab8b43ca-46b6-422d-8e82-682fcc0e0b5e" alt="Whatsapp badge" height="30px" />
-   &nbsp;&nbsp;&nbsp;
-  </a>
+    Whatsapp
+  </a>&nbsp;
   <a href="https://64c0124e6057c4007629e337--tangerine-marigold-37bb7c.netlify.app/" target="_blank">
-    <img src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/0db1cffa-2910-466a-9888-ddacf6eccd70" alt="Stack Overflow badge" height="30px" />
-    &nbsp;&nbsp;&nbsp;
-  </a>
+    Stack Overflow
+  </a>&nbsp;
 </p>
