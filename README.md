@@ -1,6 +1,7 @@
 <div align="center">
   <div>
-  <img src="https://cdn.discordapp.com/attachments/1099742049361723496/1134865734632210513/Mokoto_Glitch_1.gif"/>
+
+  <img align="center" alt="gif"  src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/d8e2a3c0-e989-4c7f-bcf8-a0c5c3a6309f"/>
   </div>
 <div height="80px">
   <img align="center" alt="Js" height="50" width="50" 
