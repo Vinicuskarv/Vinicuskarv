@@ -1,7 +1,6 @@
 <div align="center">
-<h1>Hi, i am Vinicius karvalho!!👋<h1/>
-  <div display="flex">
-  <img align="center"  alt="gif" height="300" width="300" src="https://cdn.discordapp.com/attachments/1099742049361723496/1134593059049455667/nagato-warming-up.gif"/>
+  <div>
+  <img src="https://cdn.discordapp.com/attachments/1099742049361723496/1134865734632210513/Mokoto_Glitch_1.gif"/>
   </div>
 <div height="80px">
   <img align="center" alt="Js" height="50" width="50" 
