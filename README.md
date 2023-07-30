@@ -20,7 +20,7 @@
 <img align="left" alt="gif"  height="180" width="200"         src="https://cdn.discordapp.com/attachments/1099742049361723496/1124452379367063693/picasion.com_cc7eb7c2eaede347b12023586f57a65f.gif"/>
   <br/><br/><br/>
 <div align="center">
-  <a href="https://64c0124e6057c4007629e337--tangerine-marigold-37bb7c.netlify.app/" target="_blank">
+  <a href="https://shre.ink/Portifolio-Vinicius" target="_blank">
     <img  src="./img/curriculum.png" alt="Curriculum" height="70px"/>
   </a>&nbsp;
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
