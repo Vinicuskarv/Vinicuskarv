@@ -21,23 +21,18 @@
   <br/><br/><br/>
 <div align="center">
   <a href="https://64c0124e6057c4007629e337--tangerine-marigold-37bb7c.netlify.app/" target="_blank">
-    <img  src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/61d05ebc-1b15-46da-872f-0e02d3fcff4c" alt="Curriculum" height="70px"/>
-    Curriculum
+    <img  src="./img/curriculum.png" alt="Curriculum" height="70px"/>
   </a>&nbsp;
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/cb5779ac-697a-4285-9cda-420cf9b634ba" alt="Gmail" height="70px"/>
-    Gmail
+    <img src="./img/gmail.png" alt="Gmail" height="70px"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/vinicius-carvalho-lucius" target="_blank">
-    <img src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/25975d78-ddd9-4b02-9e28-8bbdf61e014d" alt="LinkedIn" height="70px"/>
-    LinkedIn
+    <img src="./img/linkedin.png" alt="LinkedIn" height="70px"/>
   </a>&nbsp;
   <a href="https://api.whatsapp.com/send/?phone=351914127602&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/6b70ad5a-6751-4ab7-9b6a-724794f4aef9" alt="Whatsapp" height="70px"/>
-    Whatsapp
+    <img src="./img/whatsapp.png" alt="Whatsapp" height="70px"/>
   </a>&nbsp;
-  <a href="https://64c0124e6057c4007629e337--tangerine-marigold-37bb7c.netlify.app/" target="_blank">
-    <img src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/a1023c07-587a-436b-beab-180f71db2615" alt="Portfolio" height="70px"/>
-    Portfolio
+  <a href="https://64c6a55f1ec6cc27ffa531d1--clinquant-strudel-59e453.netlify.app/" target="_blank">
+    <img src="./img/portifolio.png" alt="Portfolio" height="70px"/>
   </a>
 </div>
