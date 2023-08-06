@@ -21,7 +21,7 @@
 <img align="left" alt="gif" width="200px" src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/49464bf5-fdc2-49f9-8494-6d6103706a08"/>
 <br/><br/><br/>
 <div align="center">
-  <a href="https://github.com/Vinicuskarv/CVvini/blob/main/vinicius.pdf" target="_blank">
+  <a href="https://github.com/Vinicuskarv/CVvini" target="_blank">
     <img  src="./img/curriculum.png" alt="Curriculum" height="70px"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
