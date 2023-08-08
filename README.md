@@ -33,7 +33,7 @@
   <a href="https://api.whatsapp.com/send/?phone=351914127602&text&type=phone_number&app_absent=0" target="_blank">
     <img src="./img/whatsapp.png" alt="Whatsapp" height="70px"/>
   </a>
-  <a href="https://64c6a55f1ec6cc27ffa531d1--clinquant-strudel-59e453.netlify.app/" target="_blank">
+  <a href="https://melodious-torrone-b3c4a5.netlify.app/" target="_blank">
     <img src="./img/portifolio.png" alt="Portfolio" height="70px"/>
   </a>
 </div>
