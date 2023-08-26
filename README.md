@@ -25,7 +25,7 @@
 </div>
 <br/><br/><br/>
 <img align="center" alt="gif" width="100%" src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/4c77f1ed-cea5-4519-9ca5-bbd9e5d5e3c7"/>
-<br/><br/>
+<br/><br/><br/><br/>
 <div align="center">
   <a href="https://github.com/Vinicuskarv/CVvini" target="_blank">
     <img  src="./img/curriculum.png" alt="Curriculum" height="70px"/>
@@ -43,5 +43,4 @@
     <img src="./img/portifolio.png" alt="Portfolio" height="70px"/>
   </a>
 </div>
-
-
+<br/>
