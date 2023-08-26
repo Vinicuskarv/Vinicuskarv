@@ -24,7 +24,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="jquery" height="50px" />&nbsp;
 </div>
 <br/><br/><br/>
-<img align="center" alt="gif" width="100%" src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/4c77f1ed-cea5-4519-9ca5-bbd9e5d5e3c7"/>
+<img align="center" alt="gif" width="100%" src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/e26590a5-012d-43d0-bee1-285052414cfb"/>
 <br/><br/><br/><br/>
 <div align="center">
   <a href="https://github.com/Vinicuskarv/CVvini" target="_blank">
