@@ -22,6 +22,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="50px" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="50px" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="jquery" height="50px" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" height="50px" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharo" height="50px" />&nbsp;      
 </div>
 <br/><br/><br/>
 <img align="center" alt="gif" width="100%" src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/e26590a5-012d-43d0-bee1-285052414cfb"/>
