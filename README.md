@@ -1,5 +1,3 @@
-
- ![snake gif](https://github.com/Vinicuskarv/Vinicuskarv/blob/output/github-contribution-grid-snake.gif)
 <img align="center" alt="gif" width="100%" src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/d8e2a3c0-e989-4c7f-bcf8-a0c5c3a6309f"/>
 <br/><br/>
 <img align="center" alt="gif" width="100%" src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/c650964d-1c18-43bd-bbd9-6853c3022186"/>
@@ -48,8 +46,4 @@
   </a>
 </div>
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+ ![snake gif](https://github.com/Vinicuskarv/Vinicuskarv/blob/output/github-contribution-grid-snake.gif)
