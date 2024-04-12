@@ -46,4 +46,3 @@
   </a>
 </div>
 <br/>
-<img align="center" alt="gif" width="100%" src="https://github.com/Vinicuskarv/Vinicuskarv/blob/output/github-contribution-grid-snake.svg"/>
