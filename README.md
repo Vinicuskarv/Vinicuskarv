@@ -41,7 +41,7 @@
   <a href="https://api.whatsapp.com/send/?phone=351914127602&text&type=phone_number&app_absent=0" target="_blank">
     <img src="./img/whatsapp.png" alt="Whatsapp" height="70px"/>
   </a>
-  <a href="https://shre.ink/Portifo-vinicius" target="_blank">
+  <a href="https://portifolio-git-main-lucius-projects-9c935b0b.vercel.app/" target="_blank">
     <img src="./img/portifolio.png" alt="Portfolio" height="70px"/>
   </a>
 </div>
