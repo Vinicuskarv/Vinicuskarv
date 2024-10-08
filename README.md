@@ -46,3 +46,11 @@
   </a>
 </div>
 <br/>
+<div>
+<a href="
+https://github.com/LucasEpifanio">
+<img height="180em" src="
+https://github-readme-stats.vercel.app/api?username=Vinicuskarv&layout=compact&langs_count-16&theme=tokyonight"/>
+<img height="220em" src="
+https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicuskarv&theme=tokyonight"/>
+</div>
