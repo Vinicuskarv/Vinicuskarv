@@ -29,9 +29,6 @@
 <img align="center" alt="gif" width="100%" src="https://github.com/Vinicuskarv/Vinicuskarv/assets/131013621/e26590a5-012d-43d0-bee1-285052414cfb"/>
 <br/><br/><br/><br/>
 <div align="center">
-  <a href="https://github.com/Vinicuskarv/CVvini" target="_blank">
-    <img  src="./img/curriculum.png" alt="Curriculum" height="70px"/>
-  </a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="./img/gmail.png" alt="Gmail" height="70px"/>
   </a>
